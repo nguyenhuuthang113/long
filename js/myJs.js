@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: "Tối nay Me qua đón You đi chơi nhaaaaaaaaa :> Còn giờ thì chờ gì nữa mà ko inbox cho your love đi nàoooooo",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.facebook.com/Dinh.Phuc.Wefinex';
+                    window.location = 'https://www.facebook.com/OngHoangFB.PhamVanLong';
                   }
             })
         }
