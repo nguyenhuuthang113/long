@@ -73,7 +73,7 @@ $('#no').click(() => {
 // generate text in input
 function textGenerate() {
     var n = "";
-    var text = " Bởi Vì Anh Là Thế Giới Của Em <3 ";
+    var text = " Bởi vì bản thân tớ xấu bỏ mợ :(( ";
     var a = Array.from(text);
     var textVal = $('#txtReason').val() ? $('#txtReason').val() : "";
     var count = textVal.length;
@@ -96,7 +96,7 @@ $('#yes').click(function() {
     var audio = new Audio('sound/tick.mp3');
     audio.play();
     Swal.fire({
-        title: 'Nói cho tớ lí do You thích Me đi :vvvv',
+        title: 'Nói cho Me lý do Me đẹp trai đi :vvvv',
         html: true,
         width: 900,
         padding: '3em',
